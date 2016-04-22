@@ -1,0 +1,13 @@
+{
+    "require": {
+        "slim/slim": "^3.0.0",
+        "ark/database": "^0.1.6",
+        "ark/template": "^0.1.1",
+        "kilte/pagination": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "GuaZi\\Op\\": "src/"
+        }
+    }
+}
